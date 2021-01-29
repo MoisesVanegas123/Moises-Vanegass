@@ -1,4 +1,4 @@
-<!DOCTYPE html>
+<!DOCTYPE html>https://moisesvanegas123.github.io/Moises-Vanegass/
 <html>
 <head>
 	<title>MI PAGINA </title>
