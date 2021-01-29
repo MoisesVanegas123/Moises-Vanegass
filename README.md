@@ -1,4 +1,7 @@
-<!DOCTYPE html>https://moisesvanegas123.github.io/Moises-Vanegass/
+Pagina tecnologiahttps://moisesvanegas123.github.io/Moises-Vanegass/
+
+
+<!DOCTYPE html>
 <html>
 <head>
 	<title>MI PAGINA </title>
