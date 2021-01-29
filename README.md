@@ -1,6 +1,5 @@
 
-https://github.com/MoisesVanegas123/Moises-Vanegass.git
-
+ https://moisesvanegas123.github.io/Moises-Vanegass/.
 <!DOCTYPE html>
 <html>
 <head>
