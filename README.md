@@ -1,8 +1,6 @@
 
  https://moisesvanegas123.github.io/Moises-Vanegass/.
-<!DOCTYPE html>
-<html>
-<head>
+
 	<title>MI PAGINA </title>
 </head>
 <body background="50599a3b340d5da.jpg">
@@ -18,8 +16,6 @@
 
 
 
-</body>
-</html>
 
 
 
