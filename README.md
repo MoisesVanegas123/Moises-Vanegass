@@ -1,5 +1,6 @@
 
- https://moisesvanegas123.github.io/Moises-Vanegass/.
+ https://moisesvanegas123.github.io/Moises-Vanegass/
+
 <!DOCTYPE html>
 <html>
 <head>
@@ -17,7 +18,7 @@
       <center><a href="perodo 2.html"><img src="2.png"></a></center>
       <center><a href="perodo 3.html"><img src="3.png"></a></center>
       <center><a href="perodo 4.html"><img src="4.png"></a></center> 
-<a href="https://moisesvanegas123.github.io/Moises-Vanegass/."></a><br>
+      
 
 
 </body>
