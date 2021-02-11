@@ -15,9 +15,9 @@
       <center><h1>periodos</h1></center>
       
       <center><a href="periodo 1"><img src="1.png"></a></center>
-      <center><a href="perodo 2.html"><img src="2.png"></a></center>
-      <center><a href="perodo 3.html"><img src="3.png"></a></center>
-      <center><a href="perodo 4.html"><img src="4.png"></a></center> 
+      <center><a href="periodo 2.html"><img src="2.png"></a></center>
+      <center><a href="periodo 3.html"><img src="3.png"></a></center>
+      <center><a href="periodo 4.html"><img src="4.png"></a></center> 
       
 
 
