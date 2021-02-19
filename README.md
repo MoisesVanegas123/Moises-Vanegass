@@ -1,5 +1,5 @@
 
-
+<head>
 	<title>MI PAGINA </title>
 
 </head>
