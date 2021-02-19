@@ -2,7 +2,7 @@
 
 
 	<title>MI PAGINA </title>
-</head>
+
 <body background="descarga.JPG">
       <center><h1>NEOSISTEMAS</h1></center>
       <center><h1>Moises David Vanegas</h1></center>
