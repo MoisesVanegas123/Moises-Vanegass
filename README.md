@@ -1,8 +1,6 @@
 
 
-<!DOCTYPE html>
-<html>
-<head>
+
 	<title>MI PAGINA </title>
 </head>
 <body background="descarga.JPG">
@@ -19,9 +17,6 @@
       <center><a href="perodo 4.html"><img src="4.png"></a></center> 
       
 
-
-</body>
-</html>
 
 
 
