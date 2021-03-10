@@ -21,9 +21,9 @@
  background:url(descarga.JPG);
 }
 .hoka{
-    position: absolute;
+     position: absolute;
     top: 450px;
-    left: 90px;
+    left: 80px;
     height: 100px;
     width: 200px; 
     text-align: center;
@@ -33,9 +33,9 @@
  background:url(29.JPG);
 }
 .hola{
-    position: absolute;
+       position: absolute;
     top: 450px;
-    left: 300px;
+    left: 325px;
     height: 100px;
     width: 200px; 
     text-align: center;
