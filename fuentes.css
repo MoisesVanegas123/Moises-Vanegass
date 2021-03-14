@@ -1,0 +1,268 @@
+
+.cuadro{
+    position: absolute;
+    
+    top: 20px;
+    left: 90px;
+    height: 150px;
+    width: 1810px;
+    background: ;
+    color: white;
+    font: white;
+    color: white;
+    font-size: 50px;
+    text-align: center;
+    align-content: center;  
+    border:solid 5px black;
+    border-radius: 15px;
+ background:url(descarga.JPG);
+}
+.cuadr1{
+    position: absolute;
+    
+    top: 5px;
+    left: 100px;
+    height: 130px;
+    width: 1610px;
+    font-family: titulo;
+    color: white;
+    font: white;
+    color: white;
+    font-size: 50px;
+    text-align: center;
+    align-content: center;  
+    border:solid 5px white;
+    border-radius: 15px;
+    background: rgba(43,149,110,0) ;
+}
+
+.cuadr2{
+    position: absolute;
+    
+    top: 10px;
+    left: 200px;
+    height: 100px;
+    width: 1210px;
+    background: ;
+    color: white;
+    font: white;
+    color: white;
+    font-size: 50px;
+    text-align: center;
+    align-content: center;  
+    border:solid 5px white;
+    border-radius: 15px;
+    background: rgba(43,149,110,0.3) ;
+}
+.padre{
+    position: absolute;
+    top: 100px;
+    left: 100px;
+    height: 1000px;
+    width: 2000px; 
+    text-align: center;
+    align-content: center;  
+    border:solid 5px black;
+    border-radius: 15px;
+    background:url(descarga.JPG);
+}
+
+
+.ricardo{
+    position: absolute;
+    
+    top: 200px;
+    left: 90px;
+    height: 700px;
+    width: 900px;
+    background: ;
+    color: white;
+    font: white;
+    color: white;
+    font-size: 50px;
+    text-align: center;
+    align-content: center;  
+    border:solid 5px black;
+    border-radius: 15px;
+
+
+}
+
+.hijo{
+    position: absolute;
+    
+    top: 80px;
+    left: 45px;
+    height: 600px;
+    width: 800px;
+    background: ;
+    color: white;
+    font: white;
+    color: white;
+    font-size: 50px;
+    text-align: center;
+    align-content: center;  
+    border:solid 5px black;
+    border-radius: 15px;
+
+
+}
+
+.hijo1{
+    position: absolute;
+    
+    top: 70px;
+    left: 55px;
+    height: 300px;
+    width: 690px;
+    background: ;
+    color: white;
+    font: white;
+    color: white;
+    font-size: 50px;
+    text-align: center;
+    align-content: center;  
+    border:solid 5px black;
+    border-radius: 15px;
+
+
+}
+.hijo2{
+    position: absolute;
+    
+    top: 70px;
+    left: 55px;
+    height: 200px;
+    width: 200px;
+    background: ;
+    color: white;
+    font: white;
+    color: white;
+    font-size: 50px;
+    text-align: center;
+    align-content: center;  
+    border:solid 5px black;
+    border-radius: 15px;
+    background: url(descarga1.JPG);
+
+}
+.hijo3{
+    position: absolute;
+    
+    top: 400px;
+    left: 55px;
+    height: 200px;
+    width: 200px;
+    background: ;
+    color: white;
+    font: white;
+    color: white;
+    font-size: 50px;
+    text-align: center;
+    align-content: center;  
+    border:solid 5px black;
+    border-radius: 15px;
+    background: url(descarga2.JPG);
+
+}
+.hijo4{
+    position: absolute;
+    
+    top: 400px;
+    left: 600px;
+    height: 200px;
+    width: 200px;
+    background: ;
+    color: white;
+    font: white;
+    color: white;
+    font-size: 50px;
+    text-align: center;
+    align-content: center;  
+    border:solid 5px black;
+    border-radius: 15px;
+    background: url(images.JPG);
+
+}
+.hijo5{
+    position: absolute;
+    
+    top: 70px;
+    left: 600px;
+    height: 200px;
+    width: 200px;
+    background: ;
+    color: white;
+    font: white;
+    color: white;
+    font-size: 50px;
+    text-align: center;
+    align-content: center;  
+    border:solid 5px black;
+    border-radius: 15px;
+    background: url(29.JPG);
+
+
+}
+.hijo6{
+    position: absolute;
+    
+    top: 200px;
+    left: 325px;
+    height: 200px;
+    width: 200px;
+    background: ;
+    color: white;
+    font: white;
+    color: white;
+    font-size: 50px;
+    text-align: center;
+    align-content: center;  
+    border:solid 5px black;
+    border-radius: 15px;
+
+
+}
+
+
+.juan{
+        position: absolute;
+    
+    top:  200px;
+    left: 1000px;
+    height: 700px;
+    width: 900px;
+    background: ;
+    color: white;
+    font: white;
+    color: white;
+    font-size: 50px;
+    text-align: center;
+    align-content: center;  
+    border:solid 5px black;
+    border-radius: 15px;
+
+}
+.texto{
+    font-family:  texto;
+    font-size: 200px;
+    color: black;
+}
+
+.Titulo{
+    font-family: Titulo;
+   font-size: 90px;
+     color: black;
+  
+}
+
+@font-face{
+    font-family: texto;
+    src : url(Aztecways.ttf) ; 
+}
+@font-face{
+    font-family: Titulo;
+    src : url(Babalu.ttf) ; 
+}
+
+    
