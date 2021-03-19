@@ -1,0 +1,353 @@
+
+.padre{
+	position: absolute;
+	top: 30px;
+	left: 2000px;
+	height: 2900px;
+	width: 2000px;  
+	border:solid white;
+	background: red;
+	 border:solid 10px white;
+    border-radius: 50px;
+}
+.hijo{
+	position: absolute;
+	top: 0px;
+	left: 90px;
+	height: 100px;
+	width: 1800px;
+	border:solid black;
+	background: yellow; 
+	border:solid 10px black;
+    border-radius: 50px;
+}
+.hijo1{
+	position: absolute;
+	top: 2780px;
+	left: 90px;
+	height: 100px;
+	width: 1800px;
+	border:solid black; 
+	background: yellow;
+	border:solid 10px black;
+    border-radius: 50px; 
+}
+.imagen{
+	 position: absolute;
+    top: 900px;
+    left: -500px;
+    width: 3000px;
+    height: 3000px;
+    background: url(tambor.png) no-repeat;
+    background-size: contain;
+    transform: rotate(20deg);
+}
+.imagen1{
+	 position: absolute;
+    top: 900px;
+    left: 100px;
+    width: 2000px;
+    height: 2000px;
+    background: url(pito.png) no-repeat;
+    background-size: contain;
+    transform: rotate(15deg);
+}
+.imagen2{
+	 position: absolute;
+    top: -300px;
+    left: -200px;
+    width: 4000px;
+    height: 4000px;
+    background: url(guitarra.png) no-repeat;
+    background-size: contain;
+    transform: rotate(-100deg);
+}
+.vandera{
+	position: absolute;
+    top: 2000px;
+    left: 1800px;
+    height: 100px;
+    width: 150px;
+    background: url(Captura.JPG) no-repeat;
+       border:solid 10px black;
+    border-radius: 50px;
+  
+}
+.vandera1{
+	position: absolute;
+     top: 1800px;
+    left: 1800px;
+    height: 100px;
+    width: 150px;
+    background: url(Captura1.JPG) no-repeat;
+    border:solid 10px black;
+    border-radius: 50px;
+
+   
+}
+.vandera2{
+	position: absolute;
+    top: 1600px;
+    left: 1800px;
+    height: 100px;
+    width: 150px;
+    background: url(Captura2.JPG) no-repeat;
+    border:solid 10px black;
+    border-radius: 50px;
+}
+.vandera3{
+    position: absolute;
+     top: 1400px;
+    left: 1800px;
+    height: 100px;
+    width: 150px;
+    background: url(Captura3.JPG) no-repeat;
+    border:solid 10px black;
+    border-radius: 50px;
+}
+.vandera4{
+    position: absolute;
+     top: 1200px;
+    left: 1800px;
+    height: 100px;
+    width: 150px;
+    background: url(Captura4.JPG) no-repeat;
+    border:solid 10px black;
+    border-radius: 50px;
+}
+.texto{
+	position: absolute;
+    top: 400px;
+	left: 500px;
+   height: 200px;
+    width: 1000px;
+    font-family: texto;
+    color: white;
+    font: white;
+    color: white;
+    font-size: 90px;
+    text-align: center;
+    border-radius: 15px;
+    color: yellow;
+}
+
+
+.texto1{
+	position: absolute;
+    top: 600px;
+	left: 500px;
+   height: 200px;
+    width: 1000px;
+    background: ;
+   font-family: texto1;
+    font-size: 90px;
+    text-align: center;
+    border-radius: 15px;
+    color: white;
+}
+
+.texto2{
+	position: absolute;
+    top: 670px;
+	left: 500px;
+    height: 200px;
+    width: 1000px;
+    background: ;
+    font-family: texto2;
+    font-size: 200px;
+    text-align: center;
+    border-radius: 15px;
+    color: white;
+}
+
+.texto3{
+	position: absolute;
+    top: 900px;
+	left: 500px;
+    height: 200px;
+    width: 1000px;
+    background: ;
+    font-family: texto3;
+    font-size: 90px;
+    text-align: center;
+    border-radius: 15px;
+    color: yellow;
+}
+
+.texto4{
+	position: absolute;
+    top: 1000px;
+	left: 500px;
+    height: 200px;
+    width: 1000px;
+    background: ;
+    font-family: texto4;
+    font-size: 90px;
+    text-align: center;
+    border-radius: 15px;
+    color: yellow;
+}
+.texto5{
+	position: absolute;
+   top:  2000px;
+    left: 1550px;
+    background: ;
+    font-size: 90px;
+    text-align: center;
+    border-radius: 15px;
+    color: white;
+}
+.texto6{
+	position: absolute;
+   top: 1800px;
+    left: 1600px;
+    background: ;
+    font-size: 90px;
+    text-align: center;
+    border-radius: 15px;
+    color: white;
+}
+     .texto7{
+	position: absolute;
+    top: 1600px;
+    left: 1550px;
+    background: ;
+    font-size: 90px;
+    text-align: center;
+    border-radius: 15px;
+    color: white;
+ }
+ .texto8{
+	position: absolute;
+    top: 1400px;
+    left: 1600px;
+    background: ;
+    font-size: 90px;
+    text-align: center;
+    border-radius: 15px;
+    color: white;
+     }
+     .texto9{
+	position: absolute;
+    top: 1200px;
+     left: 1550px;
+    background: ;
+    font-size: 90px;
+    text-align: center;
+    border-radius: 15px;
+    color: white;
+     }
+ .texto10{
+	position: absolute;
+    top: 1700px;
+    left: 50px;
+    background: ;
+    font-size: 90px;
+    text-align: center;
+    border-radius: 15px;
+    color: yellow;
+ }  
+.cuadro{
+	position: absolute;
+    top: 1800px;
+	left: 100px;
+    height: 100px;
+    width: 250px;
+    font-size: 90px;
+    border:solid yellow;
+	background: yellow; 
+	border:solid 10px yellow;
+    border-radius: 20px;
+
+ }   
+ .texto11{
+	position: absolute;
+    top: 1950px;
+    left: 100px;
+    background: ;
+    font-size: 90px;
+    text-align: center;
+    border-radius: 15px;
+    color: yellow;
+ }  
+  .texto12{
+	position: absolute;
+    top: 2040px;
+    left: 10px;
+    background: ;
+    font-size: 90px;
+    text-align: center;
+    border-radius: 15px;
+    color: yellow;
+ }
+   .texto13{
+	position: absolute;
+    top: 2120px;
+    left: 10px;
+    background: ;
+    font-size: 90px;
+    text-align: center;
+    border-radius: 15px;
+    color: yellow;
+ }
+    .cuadro1{
+	position: absolute;
+    top: 2250px;
+    left: 100px;
+    height: 0px;
+    width: 350px;
+    background: ;
+    font-size: 90px;
+    text-align: center;
+    border-radius: 15px;
+    border:solid yellow;
+	background: yellow; 
+	border:solid 10px yellow;
+    border-radius: 20px;
+    color: yellow;
+ }  
+   .texto14{
+	position: absolute;
+    top: 2300px;
+    left: 120px;
+    background: ;
+    font-size: 90px;
+    text-align: center;
+    border-radius: 15px;
+    color: yellow;
+ }
+.Titulo{
+	position: absolute;
+    top: 150px;
+	left: 500px;
+   height: 200px;
+    width: 1000px;
+    font-size: 150px;
+    text-align: center;
+   font-family: Titulo;
+     color: yellow;
+}
+@font-face{
+    font-family: Titulo;
+    src : url(A Stitch Plus Nine.ttf) ; 
+}
+@font-face{
+    font-family: texto;
+    src : url( aAhaWow.ttf); 
+}
+@font-face{
+    font-family: texto1;
+    src : url( aAhaWow.ttf); 
+}
+@font-face{
+    font-family: texto2;
+    src : url( aAhaWow.ttf); 
+}
+@font-face{
+    font-family: texto3;
+    src : url( aAhaWow.ttf); 
+}
+@font-face{
+    font-family: texto4;
+    src : url( aAhaWow.ttf); 
+}
